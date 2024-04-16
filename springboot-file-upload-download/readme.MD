@@ -1,4 +1,6 @@
 #File upload and download Springboot demo
+NOTE: Check application.properties for stograge location 
+
 1) By using web (spring thymeleaf framework)
 
 a) Upload test:   http://localhost:8081
